@@ -1,0 +1,16 @@
+{
+  "name": "github-api-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d GITHUB-API-PROJECT"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage" : "https://github.com/akhil-c-k/github-serach-user",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
